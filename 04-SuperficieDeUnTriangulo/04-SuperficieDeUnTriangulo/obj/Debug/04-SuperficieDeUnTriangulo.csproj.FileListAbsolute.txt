@@ -1,0 +1,5 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\04-SuperficieDeUnTriangulo\04-SuperficieDeUnTriangulo\bin\Debug\04-SuperficieDeUnTriangulo.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\04-SuperficieDeUnTriangulo\04-SuperficieDeUnTriangulo\bin\Debug\04-SuperficieDeUnTriangulo.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\04-SuperficieDeUnTriangulo\04-SuperficieDeUnTriangulo\obj\Debug\04-SuperficieDeUnTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\04-SuperficieDeUnTriangulo\04-SuperficieDeUnTriangulo\obj\Debug\04-SuperficieDeUnTriangulo.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\04-SuperficieDeUnTriangulo\04-SuperficieDeUnTriangulo\obj\Debug\04-SuperficieDeUnTriangulo.pdb
